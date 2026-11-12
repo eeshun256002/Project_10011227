@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Mohotew Client (Android)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "toolArgs": ["--flavor", "client", "--dart-define-from-file=.env"]
+    },
+    {"name":"Mohotew Driver (Android)","request":"launch","type":"dart","program":"lib/main_driver.dart","toolArgs":["--flavor","driver","--dart-define-from-file=.env"]},
+    {"name":"Mohotew Receiver (Android)","request":"launch","type":"dart","program":"lib/main_receiver.dart","toolArgs":["--flavor","receiver","--dart-define-from-file=.env"]},
+    {"name":"Client prototype (no backend)","request":"launch","type":"dart","program":"lib/main.dart","toolArgs":["--flavor","client","--dart-define=DEMO_MODE=true"]},
+    {"name":"Driver prototype (no backend)","request":"launch","type":"dart","program":"lib/main_driver.dart","toolArgs":["--flavor","driver","--dart-define=DEMO_MODE=true"]}
+  ]
+}

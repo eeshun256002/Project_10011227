@@ -1,0 +1,14 @@
+{
+  "name": "mohotew-backend-tests",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test --test-concurrency=1 tests/*.test.mjs"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.5.8",
+    "@electric-sql/pglite-postgis": "0.2.8",
+    "deno": "2.9.6",
+    "supabase": "2.117.0"
+  }
+}

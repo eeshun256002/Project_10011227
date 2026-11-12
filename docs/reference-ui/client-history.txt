@@ -1,0 +1,37 @@
+Back
+History
+PICKUP
+REQ-001
+
+14 Maplewood Ave, Sector 4
+
+2026-07-22 08:14 · Mixed household
+
+EN ROUTE
+URGENT
+REQ-002
+
+Junction B7, Industrial Strip
+
+2026-07-22 09:02 · Construction debris
+
+PENDING
+PICKUP
+REQ-003
+
+22 Rose Crescent, Block C
+
+2026-07-21 14:30 · Organic waste
+
+COMPLETED
+URGENT
+REQ-004
+
+Near School Gate, Accra Rd
+
+2026-07-22 07:45 · Plastic bags
+
+ACCEPTED
+HOME
+HISTORY
+PROFILE

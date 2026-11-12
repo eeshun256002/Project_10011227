@@ -1,0 +1,46 @@
+GOOD MORNING
+
+Amara Diallo
+
+2
+
+Active
+
+11
+
+Completed
+
+3
+
+Reported
+
+QUICK ACTIONS
+
+Book a
+Pickup
+Report
+Dumping
+
+RECENT REQUESTS
+
+PICKUP
+REQ-001
+
+14 Maplewood Ave, Sector 4
+
+EN ROUTE
+URGENT
+REQ-002
+
+Junction B7, Industrial Strip
+
+PENDING
+PICKUP
+REQ-003
+
+22 Rose Crescent, Block C
+
+COMPLETED
+HOME
+HISTORY
+PROFILE

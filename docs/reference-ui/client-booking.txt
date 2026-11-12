@@ -1,0 +1,10 @@
+Back
+New Request
+REQUEST TYPE
+SCHEDULED PICKUP
+REPORT DUMPING
+PHOTO
+Tap to capture photo
+LOCATION (AUTO-DETECTED)
+NOTE (OPTIONAL)
+Submit Pickup Request →

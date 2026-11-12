@@ -1,0 +1,1 @@
+{"compilerOptions":{"strict":true},"tasks":{"test":"deno test tests/","check":"deno check wm-quote/index.ts wm-dispatch/index.ts wm-worker/index.ts wm-eta/index.ts"}}

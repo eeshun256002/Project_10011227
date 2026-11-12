@@ -1,0 +1,41 @@
+[
+  {
+    "created_at": 1789314111523,
+    "entrypoint_path": "file:///tmp/user_fn_wjjabfihijpilgimdhzp_4edebec2-bd35-4977-8d81-b4e3602b1ac3_4/source/supabase/functions/wm-quote/index.ts",
+    "ezbr_sha256": "f215b60c5106f69a8a28b04918a6c7b1bb23f694235306fbad86aaeaf1326ab1",
+    "id": "4edebec2-bd35-4977-8d81-b4e3602b1ac3",
+    "import_map": false,
+    "name": "wm-quote",
+    "slug": "wm-quote",
+    "status": "ACTIVE",
+    "updated_at": 1789399854057,
+    "verify_jwt": true,
+    "version": 4
+  },
+  {
+    "created_at": 1789314111523,
+    "entrypoint_path": "file:///tmp/user_fn_wjjabfihijpilgimdhzp_099208d2-a0c9-4155-a11e-a45682d16afa_4/source/supabase/functions/wm-dispatch/index.ts",
+    "ezbr_sha256": "3f5d36edcf916e48c3c5baff712bddef1841cc5b36a841409098b1a0e1ad5992",
+    "id": "099208d2-a0c9-4155-a11e-a45682d16afa",
+    "import_map": false,
+    "name": "wm-dispatch",
+    "slug": "wm-dispatch",
+    "status": "ACTIVE",
+    "updated_at": 1789399854057,
+    "verify_jwt": true,
+    "version": 4
+  },
+  {
+    "created_at": 1789314111523,
+    "entrypoint_path": "file:///tmp/user_fn_wjjabfihijpilgimdhzp_c22fee81-20e5-47b8-bcdf-81bca571ea5c_4/source/supabase/functions/wm-worker/index.ts",
+    "ezbr_sha256": "2a6ee5843db131e8202c998155930447417b74a6972a9f6d6f34728fe390d111",
+    "id": "c22fee81-20e5-47b8-bcdf-81bca571ea5c",
+    "import_map": false,
+    "name": "wm-worker",
+    "slug": "wm-worker",
+    "status": "ACTIVE",
+    "updated_at": 1789399854057,
+    "verify_jwt": false,
+    "version": 4
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "backend_check": "passed",
+  "overall": "warning",
+  "catalog": "reachable",
+  "bookings_enabled": false,
+  "protected_rpcs": "anonymous access denied",
+  "edge_functions": "unauthenticated and invalid tokens rejected",
+  "worker": "unauthorized invocation rejected",
+  "private_table_rest": "restricted as intended (HTTP 406)",
+  "platform": {
+    "check": "available",
+    "checked_at": "2026-09-14T15:34:41.723Z",
+    "provider_updated_at": "2026-09-14T15:04:08.931Z",
+    "active_incidents": [
+      {
+        "name": "401 errors due to JWT rejections",
+        "status": "identified",
+        "url": "https://status.supabase.com/incidents/6q5902p2xd9f"
+      },
+      {
+        "name": "Network access issues affecting a limited number of users in Myanmar",
+        "status": "monitoring",
+        "url": "https://status.supabase.com/incidents/swgfk4tv1rvs"
+      }
+    ],
+    "degraded_components": [
+      {
+        "name": "API Gateway",
+        "status": "degraded_performance"
+      }
+    ]
+  },
+  "mobile_money": "not configured"
+}

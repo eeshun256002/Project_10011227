@@ -1,0 +1,11 @@
+Back
+New Request
+REQUEST TYPE
+SCHEDULED PICKUP
+REPORT DUMPING
+Urgent report — flagged for immediate review
+PHOTO
+Tap to capture photo
+LOCATION (AUTO-DETECTED)
+NOTE (OPTIONAL)
+Submit Urgent Report →
